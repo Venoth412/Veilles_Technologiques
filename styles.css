@@ -1,0 +1,54 @@
+body {
+    background: url(Background\ 77.png); 
+    background-size: cover;
+    font-family: Times;
+    text-align: center;
+    border: 5px solid wheat;
+    padding: 100px;
+}
+.logo {
+    position: absolute;
+    top: 20px;
+    text-align:center;
+    width: 100px; /* Ajustez la taille du logo selon vos préférences */
+    height:auto;
+}
+/* Styles pour le titre */
+h1 {
+    color: red;
+    text-decoration: underline;
+    border: 5px solid wheat;
+    padding: 5%;
+}
+/* Styles pour les liens */
+a {
+    color: wheat;
+    text-decoration: none;
+}
+/* Styles pour la définition */
+p {
+    font-size: 18px;
+    color: wheat;
+}
+.fine-line {
+    width: 80%;
+    border: none;
+    border-top: 5px solid ;
+    color:wheat;
+}
+/* Styles pour les Numéros de téléphones */
+a {
+    color: wheat;
+}
+/* Style pour les commentaires */
+#commentInput {
+    margin-bottom: 10px;
+}
+#listeCommentaires {
+    border: 5px solid wheat;
+    padding: 10px;
+}
+/* Style pour les titres */
+h2 {
+    color: wheat;
+}

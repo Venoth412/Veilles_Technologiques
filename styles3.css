@@ -1,0 +1,33 @@
+body {
+    background: url(Background\ 104.png); 
+    background-size: cover;
+    font-family: 'Times New Roman';
+    padding: 20px;
+}
+/* Styles pour le titre */
+h1 {
+    color: red;
+    text-decoration : underline;
+}
+/* Styles pour les liens */
+a {
+    color: blue;
+    text-decoration: none;
+}
+p.date {
+    font-style: italic;
+}
+/* Styles pour la synthèse */
+h2 {
+    font-size: 18px;
+    color: red;
+    text-decoration : underline;
+}
+p {
+    font-size: 16px;
+    color: wheat;
+}
+/* Styles pour les éléments spécifiques */
+p.source {
+    font-weight: bold;
+}
